@@ -1,0 +1,8 @@
+# Global
+.*.swp
+.DS_Store
+
+# VSCode
+.vscode/
+
+/vendor/
